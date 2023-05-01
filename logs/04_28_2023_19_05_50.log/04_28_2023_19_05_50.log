@@ -1,0 +1,5 @@
+[ 2023-04-28 19:05:54,971 ] 224 werkzeug - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.162:5000 (Press CTRL+C to quit)
+[ 2023-04-28 19:05:54,985 ] 224 werkzeug - INFO -  * Restarting with stat
